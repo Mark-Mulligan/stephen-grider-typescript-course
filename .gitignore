@@ -3,6 +3,9 @@
 # dependencies
 /node_modules
 /maps/node_modules
+/maps/hidden.ts
+/maps/.cache
+/maps/dist
 /.pnp
 .pnp.js
 
