@@ -2,3 +2,5 @@
 /.cache
 dist
 /dist
+/index.html
+index.html
