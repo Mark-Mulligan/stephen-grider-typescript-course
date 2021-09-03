@@ -4,7 +4,8 @@
 /node_modules
 /maps/node_modules
 /maps/hidden.ts
-/maps/.cache
+.cache
+/maps/dist
 /maps/dist
 /.pnp
 .pnp.js
