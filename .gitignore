@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/maps/node_modules
 /.pnp
 .pnp.js
 
