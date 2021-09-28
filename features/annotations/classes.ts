@@ -9,7 +9,7 @@ class Vehicle {
 const vehicle = new Vehicle('orange');
 console.log(vehicle.color);
 
-class Car extends Vehicle {
+class Truck extends Vehicle {
   constructor(public wheels: number, color: string) {
     super(color);
   }
@@ -24,5 +24,5 @@ class Car extends Vehicle {
   }
 }
 
-const car = new Car(4, 'red');
+const car = new Truck(4, 'red');
 car.startDrivingProcess();
